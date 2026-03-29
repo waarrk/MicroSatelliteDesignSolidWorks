@@ -4,7 +4,14 @@
       "Bash(winget --version)",
       "Bash(scoop --version)",
       "Bash(choco --version)",
-      "Read(//mnt/c/Users/waarrk/GitHub/MicroSatelliteDesignSolidWorks/**)"
+      "Read(//mnt/c/Users/waarrk/GitHub/MicroSatelliteDesignSolidWorks/**)",
+      "WebSearch",
+      "WebFetch(domain:ja.wikipedia.org)",
+      "WebFetch(domain:www.eoportal.org)",
+      "WebFetch(domain:space.skyrocket.de)",
+      "WebFetch(domain:www.isas.jaxa.jp)",
+      "WebFetch(domain:www.jstage.jst.go.jp)",
+      "WebFetch(domain:www.astronautix.com)"
     ]
   }
 }
